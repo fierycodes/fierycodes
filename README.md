@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anythign interesting, and challenging. 
 - 📫 How to reach me: Follow me on Github, and Twitter @fierykoder
 - 😄 Pronouns: Prefer Not To Say
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love 🌊
 
 <!---
 fierykoder/fierykoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
